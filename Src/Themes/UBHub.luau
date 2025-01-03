@@ -1,9 +1,9 @@
 return {
     Accent = Color3.fromHex("#30D5C8"),
 
-    AcrylicMain = Color3.fromHex("#1e1e1e"),
-    AcrylicBorder = Color3.fromHex("#444444"),
-    AcrylicGradient = ColorSequence.new(Color3.fromHex("#1e1e1e"), Color3.fromHex("#1e1e1e")),
+    AcrylicMain = Color3.fromHex("#30D5C8"),
+    AcrylicBorder = Color3.fromHex("#30D5C8"),
+    AcrylicGradient = ColorSequence.new(Color3.fromHex("#30D5C8"), Color3.fromHex("#30D5C8")),
     AcrylicNoise = 0.92,
 
     TitleBarLine = Color3.fromHex("#444444"),
