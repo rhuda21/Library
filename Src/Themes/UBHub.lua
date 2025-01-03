@@ -3,7 +3,7 @@ return {
 
     AcrylicMain = Color3.fromHex("#30D5C8"),
     AcrylicBorder = Color3.fromHex("#30D5C8"),
-    AcrylicGradient = ColorSequence.new(Color3.fromHex("#30D5C8"), Color3.fromHex("#30D5C8")),
+    AcrylicGradient = ColorSequence.new(Color3.fromHex("#14ee4c"), Color3.fromHex("#14ee4c")),
     AcrylicNoise = 0.92,
 
     TitleBarLine = Color3.fromHex("#444444"),
