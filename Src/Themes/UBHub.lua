@@ -1,8 +1,8 @@
 return {
-    Accent = Color3.fromHex("#30D5C8"),
+    Accent = Color3.fromHex("#48b258"),
 
-    AcrylicMain = Color3.fromHex("#30D5C8"),
-    AcrylicBorder = Color3.fromHex("#30D5C8"),
+    AcrylicMain = Color3.fromHex("#48b258"),
+    AcrylicBorder = Color3.fromHex("#48b258"),
     AcrylicGradient = ColorSequence.new(Color3.fromHex("#18654b"), Color3.fromHex("#18654b")),
     AcrylicNoise = 0.92,
 
