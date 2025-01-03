@@ -1,5 +1,5 @@
 return {
-    Accent = Color3.fromHex("#48b258"),
+    Accent = Color3.fromHex("#30D5C8"),
 
     AcrylicMain = Color3.fromHex("#1e1e1e"),
     AcrylicBorder = Color3.fromHex("#444444"),
@@ -11,7 +11,7 @@ return {
 
     Element = Color3.fromHex("#242424"),
     ElementBorder = Color3.fromHex("#404040"),
-    InElementBorder = Color3.fromHex("#48b258"),
+    InElementBorder = Color3.fromHex("30D5C8"),
     ElementTransparency = 0,
 
     ToggleSlider = Color3.fromHex("#48b258"),
