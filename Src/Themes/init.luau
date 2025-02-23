@@ -42,6 +42,7 @@ local Themes = {
 		"VSC Red",
 		"VS Dark",
 		"VS Light",
+		"UBHub",
 		"GitHub Dark",
 		"GitHub Dark Dimmed",
 		"GitHub Dark Default",
