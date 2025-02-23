@@ -1,5 +1,4 @@
 return {
-  Name = "UBHub",
 		Accent = Color3.fromRGB(71, 102, 71),
 		AcrylicMain = Color3.fromRGB(20, 20, 20),
 		AcrylicBorder = Color3.fromRGB(40, 40, 40), 
