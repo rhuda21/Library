@@ -5,6 +5,7 @@ local Themes = {
 		"Darker",
 		"Light",
 		"Quiet Light",
+                "Ramadan2025",
 		"Aqua",
 		"Tomorrow Night Blue",
 		"Abyss",
