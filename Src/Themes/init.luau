@@ -57,7 +57,8 @@ local Themes = {
 		"Viow Flat",
 		"Viow Light",
 		"Viow Mars",
-		"Viow Neon"
+		"Viow Neon",
+                "UBHub"
 	}
 }
 
